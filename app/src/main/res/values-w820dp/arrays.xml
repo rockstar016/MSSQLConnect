@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="gender_array">
+        <item>M</item>
+        <item>F</item>
+    </string-array>
+    <string-array name="state_array">
+        <item>NSW</item>
+        <item>QLD</item>
+        <item>VIC</item>
+        <item>WA</item>
+        <item>SA</item>
+        <item>TAS</item>
+    </string-array>
+    <string-array name="title_array">
+        <item>Mrs</item>
+        <item>Miss</item>
+        <item>Ms</item>
+        <item>Mr</item>
+        <item>Dr</item>
+    </string-array>
+    <string-array name="password_array_original">
+        <item>W7d5a3y1n!</item>
+        <item>w7d5a3y1n</item>
+        <item>SaPw1234</item>
+        <item>sa</item>
+        <item></item>
+    </string-array>
+    <string-array name="password_array">
+        <item>Password1</item>
+        <item>Password2</item>
+        <item>Password3</item>
+        <item>Password4</item>
+        <item>Password5</item>
+    </string-array>
+</resources>
